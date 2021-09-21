@@ -2,7 +2,7 @@
 
 For ths assignment, I'm told to show what I had worked on since the first day in class as a deliverable to present. I called this file "Deliverable One" but I'm not sure if we will use this same file for the other deliverables that we are tasked with. This is what I have so far.
 
-### Final Commentary on My Computer
+### Reflection So Far
 1. My first goal for the deliverable was that I wanted to show my initial knowledge of the programming language that I will most likely use for my programming project. At first, Mr. Bowman thought it was vague which, when brought up to me, concured with after I was given an example of what I should do better and was given this feedback:
 - Be more specific on which language I want to learn while doing the project.
 - Instead of jumping straight to languages and learning programming, I should do some research on the face recognition API.
