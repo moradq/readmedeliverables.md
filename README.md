@@ -2,7 +2,32 @@ Date | Semester Milestone | Project Milestone
 ---|---|---|
 *Sun, 09 12* | **Deliverable 1:** New Learning | Pick a project on what you want to do with specifics. These specifics being to pick the type of project I want to do, how I'm planning on doing it with a time line and learning plan that I took some time to make, look for and research different courses and sources for my project whether it's to either gather information or to start learning, then finally, start working on my project after picking my API. I'm planning on doing a mask detection robot which gives a certain command based on if someone is or isn't wearing a mask then putting a warning on a message board. Other part of the plan is for when I finish the first part.
 *Sun, 09 26* | **Deliverable 2:** New Learning | Start learning and developing some scraps of different coding languages after finding a suitable course to learn the language that I intend to do the project in. (In this case it's Python). Then finally start working on and developing my skills in Python and finalize my choice for the API and commit to the learning.
-*Sun, 10 10* | **Deliverable 3:** Project Foundation |
+*Sun, 10 10* | **Deliverable 3:** Project Foundation | For this deliverable I have decided finally how to do everything and had built a base foundation of this using some knowledge I acquired after I was granted permission to use CodeHS for learning python. As a reminder, I want to make a facial/mask detection robot that uses an API to be able to see whether someone is wearing a mask or not and give an appropriate response. Since this is only the base, I started working on CodeHS to learn about everything and the screencast is on the third deliverable in the repo.
+
+---
+
+# Deliverible Three Project Foundation
+
+For ths assignment, I'm told to show what I have learned so far as new learning since the 26th of September all the way 'till the 12th of October which I'm proud to say that I came accross to finally working on it! I was given a grant and a recommendation to start working on this using CodeHS with 12 or more units that can help although I was told to work on units 3-7. On the very first week of the actual grant, I was able to make it a good way through Unit 3 but feel like I can definitely do more. Here's why:
+
+### Reflection So Far
+1. Originally, I had an entire table of different dates with different goals but I changed them up completely for the sake of becoming more specific with project and being able to be more clear with it all and to have better set goals for myself to better understand what direction I am and should be going in for this big project in the first place. As opposed to the other 2 deliverables, I actually went on and started doing some more work and went a good way through the units of CodeHS. Although there are some things I want to improve:
+- I want to be able to work more on my CodeHS practice daily and get through units quickly before I can get to my final project, more realistically, I want to get through unit 5 by the end of November.
+- I want to start learning how to make the API and the code communicate to each other to make the project successful in most places.
+- I want to set a schedule for me to be able to learn code at a good level every day and retain that information for later.
+- Finally put in some code for the Repo so that Mr. Bowman can know where I am on track.
+
+2. I'd like to think that I met my goal after some adjustments to a certain degree. To explain, yes I did start a python course so I'm trying to go through and understand the units but hopefully not at a snail's pace so I have come and finally set a schedule for myself to learn CodeHS and the rest will be history from here on out. Here are some things I'm looking to do for the highest chance of the project's success:
+- Take certain precautions in order to not distract myself.
+- Work daily for at least 45 minutes
+- Never hesitate to ask questions
+- Have a lot of fun while working!
+
+3.  I believe that, to stay on schedule, I have to get some help from Mr. Bowman as well as help from the other Computer Coding 2 students, start researching more about my project and learn some programming for the language that I decided to use at home for at least 45 minutes a day and maybe more during the weekend, and finally, make all the adjustments necessary to fix up my plan and change it up along the way just in case. I had also thought about asking outside sources for help on a public forum and getting well thought-out answers will drive me to become more motivated and responsible. I have changed my entire calender to be able to move at the same pace as it while also getting everything done on time.
+
+4.  Here's what I did for the learning:
+
+https://watch.screencastify.com/v/6DWQ1J2wUiZarW7XQTR7
 
 ---
 
@@ -11,7 +36,7 @@ Date | Semester Milestone | Project Milestone
 For ths assignment, I'm told to show what I have learned so far as "new" learning since September 12th all the way 'till the 26th of September. Frankly though, I don't feel like I've learned a lot but I think not learning helps me learn more. Let me explain:
 
 ### Reflection So Far
-1. My second goal for this specific deliverable is to show any kind of new learning up until the 26th from the 12th. However, there was a small problem. Along with the API, it took me a long time to find a free course for Python. As it may seem, there were many Python courses but they were either behind paywalls or didn't have the units I needed so in short, I did not meet my goal this time though I hope to do so later. My learning plan is very vague so I decided to take the previous feedback and reformat the timeline with more specific examples and goals. This is the feedback that I got in between the 12th and 26th:
+1. My second goal for this specific deliverable is to show any kind of new learning up until the 26th from the 12th of September. However, there was a small problem. Along with the API, it took me a long time to find a free course for Python. As it may seem, there were many Python courses but they were either behind paywalls or didn't have the units I needed so in short, I did not meet my goal this time though I hope to do so later. My learning plan is very vague so I decided to take the previous feedback and reformat the timeline with more specific examples and goals. This is the feedback that I got in between the 12th and 26th:
 - Start exploring more options and researching different websites and courses then compile them and decide.
 - Compare and contrast the sites on different units of learning and such.
 - Use certain sources and comments to tell the legitimacy of a website.
