@@ -2,11 +2,31 @@ Date | Semester Milestone | Project Milestone
 ---|---|---|
 *Sun, 09 12* | **Deliverable 1:** New Learning | Pick a project on what you want to do with specifics. These specifics being to pick the type of project I want to do, how I'm planning on doing it with a time line and learning plan that I took some time to make, look for and research different courses and sources for my project whether it's to either gather information or to start learning, then finally, start working on my project after picking my API. I'm planning on doing a mask detection robot which gives a certain command based on if someone is or isn't wearing a mask then putting a warning on a message board. Other part of the plan is for when I finish the first part.
 *Sun, 09 26* | **Deliverable 2:** New Learning | Start learning and developing some scraps of different coding languages after finding a suitable course to learn the language that I intend to do the project in. (In this case it's Python). Then finally start working on and developing my skills in Python and finalize my choice for the API and commit to the learning.
-*Sun, 10 10* | **Deliverable 3:** Project Foundation | For this deliverable I have decided finally how to do everything and had built a base foundation of this using some knowledge I acquired after I was granted permission to use CodeHS for learning python. As a reminder, I want to make a facial/mask detection robot that uses an API to be able to see whether someone is wearing a mask or not and give an appropriate response. Since this is only the base, I started working on CodeHS to learn about everything and the screencast is on the third deliverable in the repo.
+*Sun, 10 12* | **Deliverable 3:** Project Foundation | For this deliverable I have decided finally how to do everything and had built a base foundation of this using some knowledge I acquired after I was granted permission to use CodeHS for learning python. As a reminder, I want to make a facial/mask detection robot that uses an API to be able to see whether someone is wearing a mask or not and give an appropriate response. Since this is only the base, I started working on CodeHS to learn about everything and the screencast is on the third deliverable in the repo.
+*Sun, 10 26* | **Deliverable 4/5:** Building my Project |
+*Sun, 11 16* | **Deliverable 6:** Project Code and Feedback Plan |
+*Sun, 12 9* | **Deliverable 7:** Project Code and Feedback Plan |
+*Sun, 1 13* | **Deliverable 8:** Final Project |
 
 ---
 
-# Deliverible Three Project Foundation
+# Deliverable 8: Final Project
+
+---
+
+# Deliverable 7: Project Code and Feedback Plan
+
+---
+
+# Deliverable 6: Project Code and Feedback Plan
+
+---
+
+# Deliverable 4/5: Building my Project
+
+---
+
+# Deliverible 3: Project Foundation
 
 For ths assignment, I'm told to show what I have learned so far as new learning since the 26th of September all the way 'till the 12th of October which I'm proud to say that I came accross to finally working on it! I was given a grant and a recommendation to start working on this using CodeHS with 12 or more units that can help although I was told to work on units 3-7. On the very first week of the actual grant, I was able to make it a good way through Unit 3 but feel like I can definitely do more. Here's why:
 
@@ -31,7 +51,7 @@ https://watch.screencastify.com/v/6DWQ1J2wUiZarW7XQTR7
 
 ---
 
-# Deliverible Two New Learning
+# Deliverible 2: New Learning
 
 For ths assignment, I'm told to show what I have learned so far as "new" learning since September 12th all the way 'till the 26th of September. Frankly though, I don't feel like I've learned a lot but I think not learning helps me learn more. Let me explain:
 
@@ -55,7 +75,7 @@ For ths assignment, I'm told to show what I have learned so far as "new" learnin
 
 ---
 
-# Deliverible One Repo
+# Deliverible 1: Repo
 
 For ths assignment, I'm told to show what I had worked on since the first day in class as a deliverable to present. I called this file "Deliverable One" but I'm not sure if we will use this same file for the other deliverables that we are tasked with. This is what I have so far.
 
