@@ -29,7 +29,8 @@ For the second to last deliverable, I stupidly decided to keep the goal the same
 # On stands for if the mask is on
 # Off stands for if the mask is off
 # Incorrect means that they're wearing the mask wrong
-# I hope that all the things are randomized and not set
+# The response can be the same every now and again but I assure you it's random chance.
+# These are replacement or temporary variables until the real ones can be made
 
 pic_one  = "On"
 pic_two = "Incorrect"
@@ -53,7 +54,9 @@ import random
 vars = [pic_one,pic_two,pic_three,pic_four,pic_five,pic_six,pic_seven,pic_eight,pic_nine,pic_ten,pic_eleven,pic_twelve]
 print (random.sample(vars, 1))
 
-# This if function is to decide the next course of action once an anser is found
+# This if function is to decide the next course of action once an answer is found
+# This function is to take the output of the RNG function and give the appropriate response to the output
+# Else function was not included because at the time it would be useless but good to have just in case an error emerges
 
 """
 if random_pic() == "On":
