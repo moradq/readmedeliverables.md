@@ -3,9 +3,9 @@ Date | Semester Milestone | Project Milestone
 *Sun, 09 12* | **Deliverable 1:** New Learning | Pick a project on what you want to do with specifics. These specifics being to pick the type of project I want to do, how I'm planning on doing it with a time line and learning plan that I took some time to make, look for and research different courses and sources for my project whether it's to either gather information or to start learning, then finally, start working on my project after picking my API. I'm planning on doing a mask detection robot which gives a certain command based on if someone is or isn't wearing a mask then putting a warning on a message board. Other part of the plan is for when I finish the first part.
 *Sun, 09 26* | **Deliverable 2:** New Learning | Start learning and developing some scraps of different coding languages after finding a suitable course to learn the language that I intend to do the project in. (In this case it's Python). Then finally start working on and developing my skills in Python and finalize my choice for the API and commit to the learning.
 *Sun, 10 12* | **Deliverable 3:** Project Foundation | For this deliverable I have decided finally how to do everything and had built a base foundation of this using some knowledge I acquired after I was granted permission to use CodeHS for learning python. As a reminder, I want to make a facial/mask detection robot that uses an API to be able to see whether someone is wearing a mask or not and give an appropriate response. Since this is only the base, I started working on CodeHS to learn about everything and the screencast is on the third deliverable in the repo.
-*Sun, 10 26* | **Deliverable 4/5:** Building my Project |
-*Sun, 11 16* | **Deliverable 6:** Project Code and Feedback Plan |
-*Sun, 12 9* | **Deliverable 7:** Project Code and Feedback Plan |
+*Sun, 10 26* | **Deliverable 4/5:** Building my Project | In this deliverable, make sure you have solid evidence with some good work to back it up at the end of the day so that you can go back and continue working on the project. At this point have something that works for your code so that you have something for feedback. This can mean something simple like a function in the project that just does something or get the entire code up and running for feedback. Point is, have something for feedback.
+*Sun, 11 16* | **Deliverable 6:** Project Code and Feedback Plan | After completing a large portion of your project, make sure to have someone or some people give you feedback. Whether it's on bugs you must fix, the user interface people aren't happy with, or anything that equates to what criticism is. You may take these as feedback and change your code, note the ideas down so you can consider them, OR if you don't like some of the feedback given to you, simply forget about it.
+*Sun, 12 9* | **Deliverable 7:** Project Code and Feedback Plan | After completing a large portion of your project, make sure to have someone or some people give you feedback. Whether it's on bugs you must fix, the user interface people aren't happy with, or anything that equates to what criticism is. You may take these as feedback and change your code, note the ideas down so you can consider them, OR if you don't like some of the feedback given to you, simply forget about it. This time get some more feedback from more people. It's the same song and dance, eh?
 *Sun, 1 13* | **Deliverable 8:** Final Project |
 
 ---
@@ -24,11 +24,59 @@ Date | Semester Milestone | Project Milestone
 
 # Deliverable 4/5: Building my Project
 
+For this part of the assignment, I was told to show my project build from the 12th to the 26th of October. I'm happy to say that I actually built and made good commits and stuff to my project! I was able to divise and make my own random answer generator for my code which was a huge stepping stone as to what my knowledge of python equates to as well as building the project itself. The only thing I need to now is get feedback but I believe the best feedback is from Mr. Bowman himself so why not ask him? From then on, as long as I have faith as to what I'm doing and keep trying, I'll burnout a lot later than before as long as I have the motivation for it.
+
+### Reflection So Far
+
+1. The learning I've acquired so far is frankly, a terrifying amount... To be honest, I was beating myself up a bit with this project because I told myself I was procrastinating and not getting any work done and "I'm useless" but I didn't let that get to me. This piece of code below is a random answer generator so it takes all the variable in the area and gives a random output of sorts. I'll explain more in the video:
+
+``` # This program is for my facial detection files and code.
+# This is a hard project but fun to do.
+
+# On stands for if the mask is on
+# Off stands for if the mask is off
+# Incorrect means that they're wearing the mask wrong
+# I hope that all the things are randomized and not set
+
+pic_one  = "On"
+pic_two = "Incorrect"
+pic_three = "Off"
+pic_four = "Incorrect"
+pic_five = "On"
+pic_six = "Off"
+pic_seven = "Incorrect"
+pic_eight = "Incorrect"
+pic_nine = "Off"
+pic_ten = "On"
+pic_eleven = "On"
+pic_twelve = "Incorrect"
+
+# This is supposed to randomise what picture it chooses every time it runs
+
+import random
+vars = [pic_one,pic_two,pic_three,pic_four,pic_five,pic_six,pic_seven,pic_eight,pic_nine,pic_ten,pic_eleven,pic_twelve]
+print (random.sample(vars, 1))
+
+# This if function is to decide the next course of action once an anser is found
+
+"""
+if random_pic() == "On":
+    print("Thank you for wearing your mask!")
+elif random_pic() == "Off":
+    print("Please wear your mask while you're in a public area.")
+elif random_pic() == "Incorrect":
+    print("Please wear your mask correctly")
+"""
+```
+2. Link to Video:
+
+https://watch.screencastify.com/v/60iOyW50r4Ty7cPbTaRR
+
 ---
 
 # Deliverible 3: Project Foundation
 
-For ths assignment, I'm told to show what I have learned so far as new learning since the 26th of September all the way 'till the 12th of October which I'm proud to say that I came accross to finally working on it! I was given a grant and a recommendation to start working on this using CodeHS with 12 or more units that can help although I was told to work on units 3-7. On the very first week of the actual grant, I was able to make it a good way through Unit 3 but feel like I can definitely do more. Here's why:
+For this assignment, I'm told to show what I have learned so far as new learning since the 26th of September all the way 'till the 12th of October which I'm proud to say that I came accross to finally working on it! I was given a grant and a recommendation to start working on this using CodeHS with 12 or more units that can help although I was told to work on units 3-7. On the very first week of the actual grant, I was able to make it a good way through Unit 3 but feel like I can definitely do more. Here's why:
 
 ### Reflection So Far
 1. Originally, I had an entire table of different dates with different goals but I changed them up completely for the sake of becoming more specific with project and being able to be more clear with it all and to have better set goals for myself to better understand what direction I am and should be going in for this big project in the first place. As opposed to the other 2 deliverables, I actually went on and started doing some more work and went a good way through the units of CodeHS. Although there are some things I want to improve:
