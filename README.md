@@ -16,6 +16,65 @@ Date | Semester Milestone | Project Milestone
 
 # Deliverable 7: Project Code and Feedback Plan
 
+For the second to last deliverable, I stupidly decided to keep the goal the same thing even though it's not very relevant now is it? Well anyway, as I was saying, I started looking into more tkinter things and graphical knowledge about python so it is unfortunate but I had to get off track to do this so my goal was not achieved this time around. However, I will be able to fix this by getting back on schedule once I know that I did a good job or at least a considerable amount of work before going back into the final project. The documentation will serve as a great way to get back on track once I've done the deed and learned everything I should've. This means that next CC2 class will be me asking a bunch of questions to Mr. Bowman about my experiences.
+
+### Reflection So Far
+
+1. In this session, I did some research on websites and videos that were recommended to me by Mr. Bowman as well as added some comments that will soon be relevant to the code as I get used to and learn tkinter. By the end of it all, I wish to have learned more about graphics than I generally did know but for now, I will continue to reasearch graphics and clickable/interactive graphics.
+
+``` 
+# This program is for my facial detection files and code.
+# This is a hard project but fun to do.
+
+# On stands for if the mask is on
+# Off stands for if the mask is off
+# Incorrect means that they're wearing the mask wrong
+# I hope that all the things are randomized and not set
+
+pic_one  = "On"
+pic_two = "Incorrect"
+pic_three = "Off"
+pic_four = "Incorrect"
+pic_five = "On"
+pic_six = "Off"
+pic_seven = "Incorrect"
+pic_eight = "Incorrect"
+pic_nine = "Off"
+pic_ten = "On"
+pic_eleven = "On"
+pic_twelve = "Incorrect"
+
+# This is supposed to randomise what picture it chooses every time it runs
+# Use tkinter for user interface
+# Make sure to have something as simple as buttons to change interface
+# Buttons add a layer of complexity for the code
+
+import random
+vars = [pic_one,pic_two,pic_three,pic_four,pic_five,pic_six,pic_seven,pic_eight,pic_nine,pic_ten,pic_eleven,pic_twelve]
+print (random.sample(vars, 1))
+
+# This if function is to decide the next course of action once an anser is found
+
+"""
+if random_pic() == "On":
+    print("Thank you for wearing your mask!")
+elif random_pic() == "Off":
+    print("Please wear your mask while you're in a public area.")
+elif random_pic() == "Incorrect":
+    print("Please wear your mask correctly")
+"""
+```
+2. Feedback:
+- Use tkinter to further imrpove and complicate the code
+- Make a GUI which is servicable to people and user-friendly
+- Figue out how to work graphics and clickable graphics for the code
+- Make sure to do this before the deadline
+- Research upon tkinter more before starting like videos and websites like W2Schoools
+
+This last portion of the deliverable is reserved for the final project documentation from now 'till the end of the semester of computer coding 2...
+3. Final Project Documentation:
+
+
 ---
 
 # Deliverable 6: Project Code and Feedback Plan
@@ -68,7 +127,9 @@ elif random_pic() == "Incorrect":
     print("Please wear your mask correctly")
 """
 ```
-2. I'm quite sure I don't need a video this time...
+2. Link to Video:
+
+https://watch.screencastify.com/v/fyMc8CJuC9qniFTfAwev
 
 ---
 
