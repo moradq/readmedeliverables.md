@@ -20,6 +20,56 @@ Date | Semester Milestone | Project Milestone
 
 # Deliverable 6: Project Code and Feedback Plan
 
+For this part of the assignment, I was told to get feedback from someone and I got some from the man, the myth, the legend: Mr. Bowman! I'm happy to say that I got some very good feedback for my project. The goal for this deliverable is true to its name so my entire plan was to get some feedback, which I did and I found it really helpful. See, I had the right idea of what I should do regarding several elements to the project but then also realizing I don't know where to start. My goal was getting feedback and I did! All I have to do is remember the advice I was given by Mr. Bowman to continue working on this and hopefully I can get somewhere with it.
+
+### Reflection So Far
+
+1. This time, I didn't really do much in terms of learning and making some large changes to my code but that's quite alright. Instead, I got an MIT license for my source code, learned about knowing how to use GUIs (mainly tkinter), and knowing what to do with the user interface so nothing really special to think about but I finllty learned about tkinter I guess.
+
+``` 
+# This program is for my facial detection files and code.
+# This is a hard project but fun to do.
+
+# On stands for if the mask is on
+# Off stands for if the mask is off
+# Incorrect means that they're wearing the mask wrong
+# I hope that all the things are randomized and not set
+
+pic_one  = "On"
+pic_two = "Incorrect"
+pic_three = "Off"
+pic_four = "Incorrect"
+pic_five = "On"
+pic_six = "Off"
+pic_seven = "Incorrect"
+pic_eight = "Incorrect"
+pic_nine = "Off"
+pic_ten = "On"
+pic_eleven = "On"
+pic_twelve = "Incorrect"
+
+# This is supposed to randomise what picture it chooses every time it runs
+# Use tkinter for user interface
+# Make sure to have something as simple as buttons to change interface
+# Buttons add a layer of complexity for the code
+
+import random
+vars = [pic_one,pic_two,pic_three,pic_four,pic_five,pic_six,pic_seven,pic_eight,pic_nine,pic_ten,pic_eleven,pic_twelve]
+print (random.sample(vars, 1))
+
+# This if function is to decide the next course of action once an anser is found
+
+"""
+if random_pic() == "On":
+    print("Thank you for wearing your mask!")
+elif random_pic() == "Off":
+    print("Please wear your mask while you're in a public area.")
+elif random_pic() == "Incorrect":
+    print("Please wear your mask correctly")
+"""
+```
+2. I'm quite sure I don't need a video this time...
+
 ---
 
 # Deliverable 4/5: Building my Project
@@ -30,7 +80,8 @@ For this part of the assignment, I was told to show my project build from the 12
 
 1. The learning I've acquired so far is frankly, a terrifying amount... To be honest, I was beating myself up a bit with this project because I told myself I was procrastinating and not getting any work done and "I'm useless" but I didn't let that get to me. This piece of code below is a random answer generator so it takes all the variable in the area and gives a random output of sorts. I'll explain more in the video:
 
-``` # This program is for my facial detection files and code.
+``` 
+# This program is for my facial detection files and code.
 # This is a hard project but fun to do.
 
 # On stands for if the mask is on
