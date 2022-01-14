@@ -25,6 +25,14 @@ Mask on (incorrectly): "Please wear your mask correctly!"
 *Project Motivation:* I guess other than saying that it was used for safety, one of my main motivations was to have fun and learn a new language since I thought that it'd be cool. It would also serve as a good challange for me to make which is all the more reason to have fun with it!
 
 *Demo:* There not too much to show to be completely honest except these:
+<<img width="1440" alt="Screenshot 2022-01-14 at 10 36 43" src="https://user-images.githubusercontent.com/89731528/149482989-05c8239e-b5b8-4a04-a686-f4bb83803b2b.png">
+img width="1440" alt="Screenshot 2022-01-14 at 10 35 35" src="https://user-images.githubusercontent.com/89731528/149482952-74cee273-8e82-43ae-a038-dcfe6297ce34.png">
+<img width="1440" alt="Screenshot 2022-01-14 at 10 36 18" src="https://user-images.githubusercontent.com/89731528/149482967-e52fc27b-7189-4962-805f-9381bace4b8b.png">
+<img width="1440" alt="Screenshot 2022-01-14 at 10 36 35" src="https://user-images.githubusercontent.com/89731528/149482980-4811ff8f-fd57-4b1e-8e8f-a139b206cc61.png">
+<img width="1440" alt="Screenshot 2022-01-14 at 10 35 11" src="https://user-images.githubusercontent.com/89731528/149482897-c36fe436-55fd-44ea-9e7d-a5c2c20ed836.png">
+<img width="1440" alt="Screenshot 2022-01-14 at 10 35 20" src="https://user-images.githubusercontent.com/89731528/149482935-c1976124-9d79-4a75-aa40-3c59ca3c8331.png">
+
+For the GUI itself, just run the project on tkinter and click one of the options on the canvas, most likely on the top left. For the normal code however, I have a bunch of screencastifies in the rest of my deliverables in which they have all information you need to do what you want. Have fun!
 
 *Technologies Used:* For this project, I mainly used CodeHS to learn the new language from scratch while also developing both a GUI and a randomizer like how the masks work also in CodeHS
 
