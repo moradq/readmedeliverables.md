@@ -6,11 +6,38 @@ Date | Semester Milestone | Project Milestone
 *Sun, 10 26* | **Deliverable 4/5:** Building my Project | In this deliverable, make sure you have solid evidence with some good work to back it up at the end of the day so that you can go back and continue working on the project. At this point have something that works for your code so that you have something for feedback. This can mean something simple like a function in the project that just does something or get the entire code up and running for feedback. Point is, have something for feedback.
 *Sun, 11 16* | **Deliverable 6:** Project Code and Feedback Plan | After completing a large portion of your project, make sure to have someone or some people give you feedback. Whether it's on bugs you must fix, the user interface people aren't happy with, or anything that equates to what criticism is. You may take these as feedback and change your code, note the ideas down so you can consider them, OR if you don't like some of the feedback given to you, simply forget about it.
 *Sun, 12 9* | **Deliverable 7:** Project Code and Feedback Plan | After completing a large portion of your project, make sure to have someone or some people give you feedback. Whether it's on bugs you must fix, the user interface people aren't happy with, or anything that equates to what criticism is. You may take these as feedback and change your code, note the ideas down so you can consider them, OR if you don't like some of the feedback given to you, simply forget about it. This time get some more feedback from more people. It's the same song and dance, eh?
-*Sun, 1 13* | **Deliverable 8:** Final Project |
+*Sun, 1 13* | **Deliverable 8:** Final Project | Complete the final project to the best of my ability.
 
 ---
 
 # Deliverable 8: Final Project
+
+As this is my final project for the entirety of the semester, I tried my best to get things to work. Unfortunately, the stack overflow code that I use for python was abondened as a project and was impossible for me to get the picture to work however, I brought my A material today! I found out how to work with tkinter on python as a GUI for CodeHS (because it's the only IDE that worked) and got to an acceptable level. Thank you for sticking with me this entire process!
+
+*Project Title:* Face Mask Detector 
+
+*Project Description:* This Project was supposed to use a camera and use face detection technology to see if it can detect if someone is either wearing a mask, wearing a mask incorrectly, or not wearing one at all using a trained A.I. that can tell the difference between those 3 and will display a message for the appropriate charge. I had bigger plans for a camera to be mounted on a robot to patrol the first floor of the school and warn people in that way but God knows how long it'd take me eh?
+
+Mask on: "Thank you for wearing your mask!"
+Mask off: "Please wear your mask!"
+Mask on (incorrectly): "Please wear your mask correctly!"
+
+*Project Motivation:* I guess other than saying that it was used for safety, one of my main motivations was to have fun and learn a new language since I thought that it'd be cool. It would also serve as a good challange for me to make which is all the more reason to have fun with it!
+
+*Demo:* There not too much to show to be completely honest except these:
+
+*Technologies Used:* For this project, I mainly used CodeHS to learn the new language from scratch while also developing both a GUI and a randomizer like how the masks work also in CodeHS
+
+*References:* 
+1. https://stackoverflow.com/questions/604749/how-do-i-access-my-webcam-in-python
+2. https://github.com/sheldonsebastian/face_mask_detector
+3. https://codehs.com
+
+*Limitation:* I had a lot of limitations here. One of them is not having a working IDE, the second is that I accidentally spent more time learning the language than actually typing something in for a code because of the fact that for the longest time, I didn't know where to start. Some others are the fact that the CV code for stackoverflow probably only works for microsoft because it didn't work on my camera even after hours of trying. Also, make sure to compile all the code together and work on it at once so that you know what is what.
+
+*Installation:* This is very simple. All you have to do is have a valid python and tkinter IDE to set up the GUI and the actual code then make sure they merge using an API of sorts so that both codes run at once. Make sure to keep indentation the same and make sure everything is working. Have a camera set up so that it can access the webcam and in this case, you can complete the code for me. Documentation is on the previous deliverable by the way.
+
+*Reflections and all:* All the reflections below are timed so that you can see my process and the timetable on the very top shows what deliverable was done on what days.
 
 ---
 
@@ -75,9 +102,52 @@ elif random_pic() == "Incorrect":
 - Research upon tkinter more before starting like videos and websites like W2Schoools
 
 This last portion of the deliverable is reserved for the final project documentation from now 'till the end of the semester of computer coding 2...
+
 3. Final Project Documentation:
+-Researched tkinter and how to install only to be told that the CV I was given doesn't work on apple
+-Started fiddling around with CodeHS and fianlly learned how to make an interactive GUI
+-Continue with trial and error until I got it right
+-I have finally done it! I was able to make a GUI!:
 
+```
+# Imports all graphic file to GUI
+# Import is used mainly to get the contents from the library
+import tkinter as tk   
 
+# This text is the output of clicking an interactive box
+# Output will be the print line below as write_text
+def write_text():
+    print("Taking Picture...")
+
+# Makes frame for canvas and generates it
+# Generates in the sense that you have to run the code to get it to work and it turns off automatically after a set time.
+parent = tk.Tk()
+frame = tk.Frame(parent)
+frame.pack()
+
+# This function actually makes the button interactable with
+# All the functions underneath are the same but shifted to the right and left
+text_disp = tk.Button(frame, 
+                    text="Take Pic", 
+                    command=write_text
+                    )
+
+text_disp.pack(side=tk.LEFT)
+
+exit_button = tk.Button(frame,
+                    text="Finish",
+                    fg="blue",
+                    command=quit)
+exit_button.pack(side=tk.RIGHT)
+
+finish_button = tk.Button(frame,
+                    text="Analyze",
+                    fg="green",
+                    command=quit)
+finish_button.pack(side=tk.RIGHT)
+
+parent.mainloop()
+``` 
 ---
 
 # Deliverable 6: Project Code and Feedback Plan
